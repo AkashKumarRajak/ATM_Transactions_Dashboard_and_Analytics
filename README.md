@@ -26,20 +26,24 @@ By integrating **Python for ETL & analytics** and **Power BI for interactive das
   - **KPI Monitoring**: Gross profit %, uptime %, average monthly revenue, and total costs.
 
 - **Key Metrics**
-  - 📈 **Total Transactions:** 2M+  
-  - 💰 **Total Revenue:** 616M+  
-  - 🏦 **Total Costs:** 296M  
-  - ✅ **Avg Uptime:** 92%  
-  - 📊 **Gross Profit Margin:** 60%  
+  - **Total Transactions:** 2M+  
+  - **Total Revenue:** 616M+  
+  - **Total Costs:** 296M  
+  - **Avg Uptime:** 92%  
+  - **Gross Profit Margin:** 60%
+  - **Best Performing State**: Assam
 
 ---
 
 ## Project Structure
 ```bash
-├── ATM Transactions Analytics & Visualization with Python.ipynb   # Python notebook for data cleaning, analysis & preprocessing
-├── ATM Transaction Dashboard.pdf                                   # Power BI Dashboard (exported report)
-├── BOB_Dataset.xlsx                                                # Raw dataset
-└── README.md                                                       # Project documentation
+ATM Transactions Analytics & Visualization with Python.ipynb    # Python notebook for data visualization & analytics
+ATM Transaction Dashboard.pdf                                   # Power BI Dashboard (exported report)
+BOB_Dataset.xlsx                                                # Raw ATM transaction dataset
+Dashboard Home.png                                              # Dashboard preview - Home Page
+Dashboard Overview.png                                          # Dashboard preview - Overview Page
+Dashboard Detail.png                                            # Dashboard preview - Detail Analysis Page
+README.md   
 ```
 ---
 
